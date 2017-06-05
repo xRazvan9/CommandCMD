@@ -5,8 +5,11 @@ version: 1.0.1
 api: [1.0.0,2.0.0,3.0.0]
 commands:
   info:
-    description: Informations about plugin
+    description: Informations about server
     default: true
   donate:
-    description: an command
+    description: donations server
+    default: true
+   staff:
+    description: Staff server 
     default: true
